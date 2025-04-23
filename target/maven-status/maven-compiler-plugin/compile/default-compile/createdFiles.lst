@@ -1,0 +1,14 @@
+com/example/service/PDFWordSearcher.class
+com/example/model/Match.class
+com/example/model/Arquivo.class
+com/example/service/ODSWordSearcher.class
+com/example/repositories/FileWordSeacher.class
+com/example/service/ExcelWordSearcher.class
+com/example/service/TextWordSearcher.class
+com/example/service/PPTXWordFinder.class
+com/example/control/SearcherFactory.class
+com/example/control/SearcherFactory$UnsupportedFileSearcher.class
+com/example/service/ExcelWordSearcher$1.class
+com/example/service/ImageProcessor.class
+com/example/service/ODTWordSearcher.class
+com/example/rest/SearchWordServlet.class

@@ -1,0 +1,11 @@
+version: '3'
+services:
+  wildfly-app:
+    image: searchword
+    build: .
+    ports:
+      - "8080:8080"
+      - "9990:9990"
+    volumes:
+      # Optional:
+      - ./files:/files
